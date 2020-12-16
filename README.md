@@ -1,2 +1,1 @@
-# taltech_sac
-System Aspects in Communications course, A.A. 2020/2021 @ Tallinn University of Technology
+This repository contains codes for "System Aspects in Communications" course, 2020 @ TalTech.
